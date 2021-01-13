@@ -61,5 +61,5 @@
 ---
 ### 이미지
 
-![이미지 연습](http://kyrieko.dothome.co.kr/image/first.jpg)
+![이미지 연습](https://github.com/Yunisung/images/blob/master/Samsung.png?raw=true)
 ---
